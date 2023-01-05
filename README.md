@@ -3,7 +3,7 @@
 ## GymHub
 
 https://gym-website-typescript.vercel.app/
-![](gymhub-outcome.png)
+![](./src//assets/gymhub-outcome.png)
 
 ## Deploy your own
 
